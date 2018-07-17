@@ -5,6 +5,9 @@ body {
   font-family: Trebuchet MS;
 }
 
-h2 span {
-  background-color: white
+h2 {
+    display:inline;
+    background-color:green;
+    color:#fff;
+}
 }
